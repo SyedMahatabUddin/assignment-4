@@ -3,5 +3,6 @@ Answer :  getElementById selects an element by its ID and returns single element
 
 2.How do you create and insert a new element into the DOM?
 Answer : To create a new  element using createElement() and insert it into the DOM using appendChild .
+
 3. What is Event Bubbling? And how does it work?
 Answer: Event Bubbling is when an event on a child element signal up to the parent elements.
